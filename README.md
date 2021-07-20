@@ -37,3 +37,26 @@ Features
     2. Once the login form is submitted our custom security authenticator kicks-in. 
        It is located under ``` src\Security\CustomLoginAuthenticator ``` which is extended from ``` AbstractLoginFormAuthenticator ```
     3. OnAuthenticationSuccess in ``` src\Security\CustomLoginAuthenticator ``` the user is directed to member dashboard
+
+
+
+
+Screenshots
+---
+Home page
+---
+![1](https://user-images.githubusercontent.com/87693251/126326888-671c353a-8cd2-42bd-8723-66f7178c73d6.png)
+
+Registration page
+---
+![2](https://user-images.githubusercontent.com/87693251/126326900-5716fc63-84ac-4b55-939e-d0f038d48658.png)
+
+Login page
+---
+![3](https://user-images.githubusercontent.com/87693251/126326895-51e3492d-c03d-40bf-b011-ff15b199bbba.png)
+
+Member Dashboard page
+---
+![4](https://user-images.githubusercontent.com/87693251/126326897-692a80d0-6705-4dd2-8e86-c3e02ca79208.png)
+
+
